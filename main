@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /home/$USER/PycharmProjects/LazyDo/main.py
