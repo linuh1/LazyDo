@@ -1,5 +1,6 @@
 PATH = '/home/danimir/PycharmProjects/LazyDo/'
 
+
 def usage_help():
     return 'Usage: command\nhelp - print this help message\nlist or l - print all tasks\nadd task1, task2 - add "task1" and "task2"\ncomplete task1, task2 - move "task1" and "task2 to archive\narchive - show archive\nexit - close the app'
 
